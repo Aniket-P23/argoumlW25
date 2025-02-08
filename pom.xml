@@ -39,6 +39,7 @@ This project is the virtual project that includes all core subprojects.
 
  <properties>
   <!--  Used in parent to deploy site on github.  -->
+  <github.site.repositoryName>argoumlW25</github.site.repositoryName>
    <sonar.organization>aniket-p23</sonar.organization>
    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
